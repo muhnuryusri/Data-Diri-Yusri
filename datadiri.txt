@@ -2,3 +2,6 @@ Nama      : Muhammad Nur Yusri
 NIM       : 1829141023
 Kelas     : Teknik Komputer B
 Kota Asal : Makassar
+
+Cita-cita : Game Developer
+IPK	  : 3.54
